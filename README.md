@@ -7,7 +7,7 @@ Clone of AdMob that shows nothing - use as replacement in open source apps to ma
 Replace "GoogleAdMobAdsSdk-6.1.0.jar" (or whatever it's named) with the binary "MobAdMobAdsSdk-6.1.0-0.1.jar" (or a self-compiled version) and recompile the Application.
 
 ###License
-> Copyright 2012 μg Project Team
+> Copyright 2012-2013 μg Project Team
 
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.
